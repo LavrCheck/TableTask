@@ -1,0 +1,60 @@
+{
+  "name": "tabletask",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-grid": "^4.0.8",
+    "@devexpress/dx-react-grid-material-ui": "^4.0.8",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@types/node": "^16.18.96",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-data-grid": "^7.0.0-beta.43",
+    "react-dom": "^18.2.0",
+    "react-grid": "^4.0.4",
+    "react-grid-system": "^8.2.0",
+    "react-scripts": "5.0.1",
+    "sass": "^1.74.1",
+    "ts-jest": "^29.1.2",
+    "util": "^0.12.5",
+    "uuid4": "^2.0.3",
+    "uuidv4": "^6.2.13",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/react": "^18.2.78",
+    "@types/react-data-grid": "^4.0.12",
+    "@types/react-dom": "^18.2.25",
+    "typescript": "^5.4.5"
+  }
+}
